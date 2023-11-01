@@ -5,5 +5,5 @@ echo "1. Bawang";
 echo "2. Ketimun";
 echo "3. Keju";
 echo "4. Roti";
-echo "3. Daging sapi";
-echo "4. Saus tar-tar";
+echo "5. Daging";
+echo "6. Saus tar tar";
